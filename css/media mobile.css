@@ -1,0 +1,31 @@
+@media screen and (Max-width:600px) 
+{
+    header #textimg h2 {
+    font-size: 1.5rem;
+    line-height: 30px;
+}
+
+header #textimg h1 {
+    font-size: 2.5rem;
+    line-height: 45px;
+
+}
+
+header #textimg button {
+
+   
+
+    font-size: 2.5rem;
+    
+ 
+}
+main #leftside ,main #rightside {
+    float: none;
+    width: 100%;
+  
+
+}
+
+
+  
+}
